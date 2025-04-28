@@ -1,0 +1,54 @@
+{
+  "competitors": [
+    "Salesforce",
+    "HubSpot",
+    "OutSystems",
+    "Creatio",
+    "Zendesk",
+    "Freshworks",
+    "ServiceNow",
+    "Microsoft Dynamics",
+    "Pega",
+    "Workday"
+  ],
+  "personas": [
+    {
+      "name": "Chief Information Officer (CIO)",
+      "keywords": ["CIO", "Chief Information Officer", "IT Leader", "Technology Head"]
+    },
+    {
+      "name": "Chief Revenue Officer (CRO)",
+      "keywords": ["CRO", "Chief Revenue Officer", "VP Sales", "Revenue Head"]
+    },
+    {
+      "name": "Chief Financial Officer (CFO)",
+      "keywords": ["CFO", "Chief Financial Officer", "Finance Head", "VP Finance"]
+    },
+    {
+      "name": "VP Operations",
+      "keywords": ["VP Operations", "Head of Operations", "COO"]
+    },
+    {
+      "name": "Product Manager",
+      "keywords": ["Product Manager", "Head of Product", "Director of Product"]
+    }
+  ],
+  "objections": [
+    {
+      "name": "Cost Concern",
+      "keywords": ["cost", "pricing", "budget", "too expensive"]
+    },
+    {
+      "name": "Speed to Deployment",
+      "keywords": ["fast deployment", "time to value", "go live speed"]
+    },
+    {
+      "name": "Security Concern",
+      "keywords": ["security", "compliance", "data protection", "GDPR", "risk management"]
+    },
+    {
+      "name": "Scalability Concern",
+      "keywords": ["scale", "growth", "future proof", "platform flexibility"]
+    }
+  ]
+}
