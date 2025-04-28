@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Battlecard Play Engine Demo</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body class="container mt-5">
+
+    <h1>Battlecard Play Engine</h1>
+
+    <textarea id="inputText" class="form-control" rows="6" placeholder="Paste your call transcript or email notes here..."></textarea>
+    <button class="btn btn-primary mt-3" onclick="analyzeText()">Analyze</button>
+
+    <div id="detectionResult" class="mt-4"></div>
+
+    <button class="btn btn-success mt-3" onclick="generatePlay()">Generate Play Card</button
